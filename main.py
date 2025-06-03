@@ -32,6 +32,8 @@ class Player(pygame.sprite.Sprite):
             ],
             # You could add more animation states here like "walk", "attack", etc.
         }
+        #Mano ta duro fazer essa cena, mas tudo com dedication and patiente, everthing is possible
+        #Carpe Diem, Sieze the day, and make it count!, make it count, carpe diem, carpe diem
         
         # Scale all sprites to consistent size if needed
         for animation in self.sprites:
